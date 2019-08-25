@@ -1,0 +1,7 @@
+F:\2019\lushiClient_KBE-master\server\lushiserver\lushiserver\bin\Debug\lushiserver.exe.config
+F:\2019\lushiClient_KBE-master\server\lushiserver\lushiserver\bin\Debug\lushiserver.exe
+F:\2019\lushiClient_KBE-master\server\lushiserver\lushiserver\bin\Debug\lushiserver.pdb
+F:\2019\lushiClient_KBE-master\server\lushiserver\lushiserver\obj\Debug\lushiserver.csprojAssemblyReference.cache
+F:\2019\lushiClient_KBE-master\server\lushiserver\lushiserver\obj\Debug\lushiserver.csproj.CoreCompileInputs.cache
+F:\2019\lushiClient_KBE-master\server\lushiserver\lushiserver\obj\Debug\lushiserver.exe
+F:\2019\lushiClient_KBE-master\server\lushiserver\lushiserver\obj\Debug\lushiserver.pdb

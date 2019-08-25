@@ -1,0 +1,6 @@
+F:\2019\lushiClient_KBE-master\server\client\client\bin\Debug\client.exe.config
+F:\2019\lushiClient_KBE-master\server\client\client\bin\Debug\client.exe
+F:\2019\lushiClient_KBE-master\server\client\client\bin\Debug\client.pdb
+F:\2019\lushiClient_KBE-master\server\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+F:\2019\lushiClient_KBE-master\server\client\client\obj\Debug\client.exe
+F:\2019\lushiClient_KBE-master\server\client\client\obj\Debug\client.pdb
